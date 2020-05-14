@@ -1,11 +1,9 @@
 /* Gurudev Ball-Khalsa
-   CS360 Lab 8 - Jsh
-   
-   GuruShell (or jsh, whatever makes you happy)
 
-   This shell is currently a rudimentary shell, capable of 
-   file execution, directory traversal (cd), file redirection, 
-   piping, and waiting using the '&' command after all commands.
+   This is a rudimentary shell, capable of  file execution,
+   directory traversal (cd), file redirection, piping, 
+   and waiting using the '&' symbol after all commands.
+ 
  */
 
 #include <stdlib.h>
